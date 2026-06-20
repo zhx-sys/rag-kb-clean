@@ -1,0 +1,9 @@
+langchain>=0.3.0
+langchain-chroma>=0.2.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+chromadb>=0.5.0
+gradio>=4.0.0
+pypdf>=5.0.0
+docx2txt>=0.8
+（内容由AI生成，仅供参考）
